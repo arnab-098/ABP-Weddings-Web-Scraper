@@ -1,23 +1,19 @@
-Here's the updated `README.md` for the [ABP-Weddings-Web-Scraper](https://github.com/arnab-098/ABP-Weddings-Web-Scraper) repository, incorporating your instructions about file paths and credentials:
-
----
-
 # ABP Weddings Web Scraper
 
 A Python-based web scraper designed to extract matrimonial profiles from the ABP Weddings website.
 
-## 📌 Features
+## Features
 
 * **Automated Scraping**: Fetches profile data from ABP Weddings.
 * **Progress Tracking**: Displays scraping progress.
 * **File I/O Support**: Reads input data, tracks visited links, and writes output/missing profiles.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language**: Python 3
 * **Libraries**: `requests`, `BeautifulSoup`, `tkinter`
 
-## 📁 Project Structure
+## Project Structure
 
 * `main.py`: Entry point of the scraper.
 * `abpScraper.py`: Main scraping logic.
@@ -26,7 +22,7 @@ A Python-based web scraper designed to extract matrimonial profiles from the ABP
 * `writer.py`: Saves scraped data, missing links, and visited link records.
 * `progressBar.py`: Progress UI component (Tkinter).
 
-## 📂 Setup Instructions
+## Setup Instructions
 
 ### 1. Prerequisites
 
@@ -89,15 +85,15 @@ MISSING_LINKS_FOLDER = "path/to/missing_links_folder/"
 python main.py
 ```
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is intended for **educational purposes only**. Make sure you comply with ABP Weddings' terms of service and privacy policy before using this scraper.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repo and submit a pull request for improvements or fixes.
 
-## 📄 License
+## License
 
 *No license is currently specified for this project. Please add one to clarify use cases and rights.*
 
