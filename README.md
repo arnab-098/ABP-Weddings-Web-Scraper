@@ -93,10 +93,6 @@ This tool is intended for **educational purposes only**. Make sure you comply wi
 
 Contributions are welcome! Please fork the repo and submit a pull request for improvements or fixes.
 
-## License
-
-*No license is currently specified for this project. Please add one to clarify use cases and rights.*
-
 ---
 
 For more tools and projects, visit [arnab-098's GitHub profile](https://github.com/arnab-098/).
