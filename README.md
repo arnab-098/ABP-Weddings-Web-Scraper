@@ -106,5 +106,3 @@ Contributions are welcome! Please fork the repo and submit a pull request for im
 For more tools and projects, visit [arnab-098's GitHub profile](https://github.com/arnab-098/).
 
 ---
-
-Let me know if you'd like this saved as a `.md` file or committed into your repo.
